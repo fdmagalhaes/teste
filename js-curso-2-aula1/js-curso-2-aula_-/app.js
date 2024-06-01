@@ -1,6 +1,6 @@
 //Variaveis 
-let min = 0;
-let max = 100;
+let min = 1;
+let max = 100   0;
 let listaDeNumerosSorteados = [];
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
